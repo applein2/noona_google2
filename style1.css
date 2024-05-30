@@ -1,0 +1,144 @@
+body {
+    display: contents;
+}
+
+.header-left {
+    float: left;
+    margin: 10px;
+    padding: 5px;
+}
+
+.header-right {
+    float: right;
+    margin: 10px;
+    padding: 5px;
+}
+
+.header-text {
+    text-decoration: none;
+    color: black;
+    padding: 0 5px 0 5px;
+}
+
+.header-text:hover {
+    text-decoration: underline;
+}
+
+
+
+.center-img {
+    margin-top: 300px;
+    text-align: center;
+}
+
+.center-container {
+    text-align: center;
+    margin-top: 25px;
+}
+
+.center-input {
+    border-radius: 24px;
+    width: 570px;
+    height: 45px;
+    border: 1px solid #dfe1e5;
+    padding-left: 40px;
+    padding-right: 100px;
+}
+
+.center-search {
+    position: relative;
+    left: 40px;
+    color: #9aa0a6;
+}
+
+.center-right-icon {
+    position: relative;
+    right: 100px;
+    color: #9aa0a6;
+    padding: 0 5px;
+}
+
+.button {
+    text-align: center;
+    margin-top: 18px;
+}
+
+.button-style {
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: Apple SD Gothic Neo, arial, sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    height: 36px;
+    min-width: 54px;
+}
+
+.button-style:hover {
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 10%);
+    background-color: #f8f9fa;
+    border: 1px solid #dadce0;
+    color: #202124;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.center-gem {
+    border: none;
+    margin-right: 5px;
+    vertical-align: middle;
+}
+
+.gemini {
+    text-decoration: none;
+}
+
+.gemini:hover {
+    text-decoration: underline;
+}
+
+.center-text {
+    font-size: 14px;
+    font-family: Apple SD Gothic Neo, arial, sans-serif;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0px;
+    background-color: #f2f2f2;
+    width: 100%;
+}
+
+.first-line {
+    padding: 15px 30px;
+    border-bottom: 1px solid #dadce0;
+    font-size: 15px;
+    color: rgba(0, 0, 0, .54);
+}
+
+.second-line {
+    padding: 15px 30px;
+    border-bottom: 1px solid #dadce0;
+    font-size: 15px;
+    color: rgba(0, 0, 0, .54);
+}
+
+.second-line-second {
+    float: right;
+}
+
+.second-line-a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.54);
+    padding-right: 15px;
+}
+
+.second-line-a:hover {
+    text-decoration: underline;
+}
+
+
